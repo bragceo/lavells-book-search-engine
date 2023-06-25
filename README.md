@@ -52,6 +52,9 @@ https://llevels-graphql-1b8972e76c7e.herokuapp.com/
 
 https://github.com/bragceo/lavells-book-search-engine
 
+## Screenshot
+
+<img width="727" alt="Screen Shot 2023-06-25 at 6 53 43 PM" src="https://github.com/bragceo/lavells-book-search-engine/assets/119948453/9a221ca2-85a5-4fe8-8359-843498da1959">
 
 
 ## Overview of Code structure and its components:
